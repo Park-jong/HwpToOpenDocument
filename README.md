@@ -3,6 +3,9 @@
 * C#
 * Java
 * Xml
+## 진행 날짜
+* 2021.02 ~ 2021.11
+
 ## 기능 설계 및 구조
 
 ![image](https://user-images.githubusercontent.com/54964209/197127595-dfb7f892-a0fa-476a-ad57-a1717e1ce944.png)
